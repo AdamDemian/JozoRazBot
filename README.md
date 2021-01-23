@@ -1,9 +1,9 @@
 # Jožo Ráž Bot 🤖
 
-je robot ktorý ulakčuje prácu na discord serveroch.
+### Robot ktorý ulakčuje prácu na discord serveroch.
+
 
 *Ak chceš mať Joža na svojom discord servery* 🌌🌌
-
 https://discord.com/oauth2/authorize?client_id=802501443905912832&scope=bot&permissions=2145385983
 
 ## GANG SHIT server" 💩
