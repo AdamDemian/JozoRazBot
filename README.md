@@ -6,7 +6,7 @@
 
 https://discord.com/oauth2/authorize?client_id=802501443905912832&scope=bot&permissions=2145385983
 
-## GANG SHIT server 💩
+## Killer Beans server 💩
 *Discord: https://discord.gg/hqYqXjcK*
 
 
