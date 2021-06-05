@@ -7,6 +7,6 @@
 https://discord.com/oauth2/authorize?client_id=802501443905912832&scope=bot&permissions=2145385983
 
 ## Killer Beans server 💩
-*Discord: https://discord.gg/hqYqXjcK*
+*Discord: https://discord.gg/G8VNUSuf*
 
 
